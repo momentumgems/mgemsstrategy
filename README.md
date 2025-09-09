@@ -1,2 +1,0 @@
-# mgemsstrategy
-strategy
